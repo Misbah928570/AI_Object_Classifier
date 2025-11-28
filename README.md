@@ -65,6 +65,11 @@ Screenshots :
 
 <img width="1359" height="588" alt="Screenshot 2025-11-26 101750" src="https://github.com/user-attachments/assets/3053d2e2-6b8f-486e-b60b-0dda24336f23" />
 
+<img width="1044" height="296" alt="Screenshot 2025-11-26 101816" src="https://github.com/user-attachments/assets/94eab74c-8539-49cf-be82-1e35714fff6e" />
+
+<img width="1355" height="522" alt="Screenshot 2025-11-26 101843" src="https://github.com/user-attachments/assets/01d07154-cd1c-49d7-91ee-787c15687478" />
+
+
 ## Future Enhancements
 - Video / real-time webcam detection
 - Multi-model support
