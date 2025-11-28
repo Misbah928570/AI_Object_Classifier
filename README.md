@@ -1,15 +1,14 @@
 ## 🤖 YOLOv8 AI Agent Detection System
 This project is a Streamlit-based object detection system powered by YOLOv8, enhanced with an AI Agent that performs deep analysis of detections and provides a feedback loop for low-confidence predictions.
-Developed as part of a 5th semester mini-project.
 
 ## 🚀 Features
-🔍 Real-time or image-based object detection
-🧠 AI-powered expert analysis using structured JSON responses
-🔄 Automatic feedback loop for improving low-confidence detection results
-🎙️ Voice feedback using text-to-speech
-📊 Interactive visualizations (confidence graphs, summary tables, frequency analysis)
-💾 Downloadable full detection summary reports
-🎨 A beautifully designed UI using advanced custom CSS
+- 🔍 Real-time or image-based object detection
+- 🧠 AI-powered expert analysis using structured JSON responses
+- 🔄 Automatic feedback loop for improving low-confidence detection results
+- 🎙️ Voice feedback using text-to-speech
+- 📊 Interactive visualizations (confidence graphs, summary tables, frequency analysis)
+- 💾 Downloadable full detection summary reports
+- 🎨 A beautifully designed UI using advanced custom CSS
 
 ## 🛠️ Tech Stack
 - Framework:	Streamlit
